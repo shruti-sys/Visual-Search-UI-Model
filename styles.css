@@ -1,0 +1,9 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#results img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
